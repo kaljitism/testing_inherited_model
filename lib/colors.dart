@@ -12,7 +12,7 @@ final colors = [
   Colors.purple,
   Colors.cyan,
   Colors.amber,
-  Colors.deepPurpleAccent
+  Colors.deepPurple,
 ];
 
 extension RandomElement<T> on Iterable<T> {
